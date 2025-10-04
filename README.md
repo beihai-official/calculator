@@ -28,5 +28,5 @@
 2. 确保项目目录下有按键音效文件 `press.wav` 和图标文件 `icon.ico`
 3. 运行：
    ```bash
-   python calculator.py
+   python main.py
 
